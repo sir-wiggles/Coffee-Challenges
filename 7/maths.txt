@@ -1,0 +1,19 @@
+200L + 72H = P + D
+How many dogs?
+
+72H = P + D
+200L = 2P + 4D
+
+solve for P
+P = D - 72H
+
+use in second equation
+200L = 2(D - 72) + 4D
+2D = 56
+D = 28
+
+28 Dogs in the room 2D = 56
+D = 28
+
+28... 28 Dogs in the room ha.. ha... haaaa... 
+
